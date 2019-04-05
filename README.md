@@ -1,3 +1,3 @@
 # Gephi--FB-Friendship-graph-analysis
 
-Analysis of network of friends in Facebook using Gephi and reporting of results using HTML,CSS.
+Analysis of friendship network on Facebook using Gephi and reporting results on a dashboard using HTML,CSS.
